@@ -1,0 +1,92 @@
+﻿[
+    {
+        "language": "eng",
+        "textkey": "Score.Current",
+        "textvalue": "Score"
+    },
+    {
+        "language": "spa",
+        "textkey": "Score.Current",
+        "textvalue": "Puntaje"
+    },
+    {
+        "language": "eng",
+        "textkey": "WinScreen.Title",
+        "textvalue": "Victory!"
+    },
+    {
+        "language": "spa",
+        "textkey": "WinScreen.Title",
+        "textvalue": "Victoria!"
+    },
+    {
+        "language": "eng",
+        "textkey": "LoseScreen.Title",
+        "textvalue": "You Lose"
+    },
+    {
+        "language": "spa",
+        "textkey": "LoseScreen.Title",
+        "textvalue": "Has Perdido"
+    },
+    {
+        "language": "spa",
+        "textkey": "Button.MainMenu",
+        "textvalue": "Menu Principal"
+    },
+    {
+        "language": "eng",
+        "textkey": "Button.MainMenu",
+        "textvalue": "Main Menu"
+    },
+    {
+        "language": "spa",
+        "textkey": "Button.Play",
+        "textvalue": "Jugar"
+    },
+    {
+        "language": "eng",
+        "textkey": "Button.Play",
+        "textvalue": "Play"
+    },
+    {
+        "language": "jp",
+        "textkey": "Score.Current",
+        "textvalue": "得点"
+    },
+    {
+        "language": "jp",
+        "textkey": "WinScreen.Title",
+        "textvalue": "勝利！"
+    },
+    {
+        "language": "jp",
+        "textkey": "LoseScreen.Title",
+        "textvalue": "敗北"
+    },
+    {
+        "language": "jp",
+        "textkey": "Button.MainMenu",
+        "textvalue": "メインメニュー"
+    },
+    {
+        "language": "jp",
+        "textkey": "Button.Play",
+        "textvalue": "します"
+    },
+    {
+        "language": "eng",
+        "textkey": "Score.Goal",
+        "textvalue": "Goal"
+    },
+    {
+        "language": "spa",
+        "textkey": "Score.Goal",
+        "textvalue": "Objetivo"
+    },
+    {
+        "language": "jp",
+        "textkey": "Score.Goal",
+        "textvalue": "旅先"
+    }
+]
